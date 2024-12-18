@@ -1,4 +1,4 @@
-#### NWPS API Jupyter Notebooks
+# NWPS API Jupyter Notebooks
 
 The NWPS API Jupyter Notebooks enable easy user orientation and access. They give practical applications of different uses cases for the specific service. Further, they allow real time execution and results giving immediate understanding of the inputs and outputs of the API. 
 
